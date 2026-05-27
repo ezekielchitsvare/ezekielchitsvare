@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Ezekiel Chitsvare 👋
 
-<!--
-**ezekielchitsvare/ezekielchitsvare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a web developer focused on building business and management systems using Django, Python, and WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience creating:
+- WordPress business websites
+- School management systems
+- Coach management systems
+- Admin dashboards and analytics systems
+
+Currently expanding my backend development and data analysis skills using Django, Python, and Advanced Excel.
+
+---
+
+## Technologies & Tools
+
+- Python
+- Django
+- WordPress
+- HTML/CSS
+- Bootstrap
+- Git & GitHub
+- SQLite
+- Advanced Excel
+- Data Analysis
+
+---
+
+## Featured Projects
+
+### Django Coach Management System
+
+A web-based coach management platform with:
+- Dashboard
+- Session management
+- Analytics
+- Scheduling
+- Plans management
+
+🔗 Repository:
+https://github.com/ezekielchitsvare/django-coach-management-system
+
+---
+
+## Portfolio
+
+🌐 https://ethezet.website/
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/eze-chitsvare-325838313/
+- Email: ezechitsvyn@gmail.com
